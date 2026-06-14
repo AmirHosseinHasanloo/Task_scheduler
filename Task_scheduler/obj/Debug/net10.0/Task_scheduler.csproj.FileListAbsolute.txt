@@ -1,0 +1,15 @@
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/bin/Debug/net10.0/Task_scheduler
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/bin/Debug/net10.0/Task_scheduler.deps.json
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/bin/Debug/net10.0/Task_scheduler.runtimeconfig.json
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/bin/Debug/net10.0/Task_scheduler.dll
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/bin/Debug/net10.0/Task_scheduler.pdb
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.AssemblyInfoInputs.cache
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.AssemblyInfo.cs
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.csproj.CoreCompileInputs.cache
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.sourcelink.json
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.dll
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/refint/Task_scheduler.dll
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.pdb
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/Task_scheduler.genruntimeconfig.cache
+/Users/amirhoseinhassanloo/Projects/Task_scheduler/Task_scheduler/obj/Debug/net10.0/ref/Task_scheduler.dll

@@ -1,40 +1,16 @@
-﻿namespace Task_scheduler;
-
-using Command;
-
-class Program
+﻿while (true)
 {
-    readonly ICommand _command;
+    Console.WriteLine("you can use --help to get the list of all commands.");
+    var command = Console.ReadLine();
 
-    Program(ICommand command)
+    if (command == "--help")
     {
-        this._command = command;
+        System.Console.WriteLine("--create");
     }
 
-    async Task RunAsync(CancellationToken cancellationToken)
+
+    if (command == "--exit")
     {
-        while (!cancellationToken.IsCancellationRequested)
-        {
-            Console.WriteLine("Enter command (type --help for options):");
-            await _command.RunCommandAsync(cancellationToken);
-        }
-    }
-
-    static async Task Main()
-    {
-        using var cancellationToken = new CancellationTokenSource();
-
-        Console.CancelKeyPress += (_, e) =>
-        {
-            e.Cancel = true;
-            cancellationToken.Cancel();
-        };
-
-        var runner = new Task_scheduler.Command.Command();
-        var app = new Program(runner);
-
-        await app.RunAsync(cancellationToken.Token);
-
-        Console.WriteLine("Program exited gracefully.");
+        System.Console.WriteLine("--create");
     }
 }

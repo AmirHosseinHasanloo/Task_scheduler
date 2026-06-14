@@ -1,4 +1,4 @@
-namespace Task_scheduler.Command.Enum;
+namespace Task_scheduler.Commands.Enum;
 
 public enum CommandEnum
 {
