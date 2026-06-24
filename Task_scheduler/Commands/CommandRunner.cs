@@ -5,8 +5,11 @@ using System.Threading.Tasks;
 
 namespace Task_scheduler.Commands
 {
-    public class AbstactCommand
+    public class CommandRunner : ICommandRunner
     {
-        
+        public void Execute()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
